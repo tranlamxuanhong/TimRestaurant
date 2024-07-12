@@ -1,0 +1,13 @@
+.container {
+  border: 1px solid black;
+  background-color: beige;
+}
+
+body {
+  max-width: 900px;
+  margin: auto;
+}
+
+.container1 {
+  margin-bottom: 20px;
+}
